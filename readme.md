@@ -27,15 +27,15 @@ Your page will likely get messed up at some point. Here are some strategies that
 
 ~~+ Horizontally center the header [h1 elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) and use the font and text-transform properties to visually distinguish elements with the .small class from the other h1. Set it to 900-weight, Lato font (with a sans-serif fallback), in all caps. And make it noticeably smaller in size (but not too small).~~
  
-+ Use the float property to position the article figure on the right-hand side of the text.
+~~+ Use the float property to position the article figure on the right-hand side of the text.~~
 
-+ Use the font property to style the figcaption so that the size is smaller and the font is lighter-weight and visually distinct (a different font-family) from the body text. Remember, for any font to load, it has to be one the user has on their computer or it has to be linked in the HTML or loaded from somewhere.
+~~+ Use the font property to style the figcaption so that the size is smaller and the font is lighter-weight and visually distinct (a different font-family) from the body text. Remember, for any font to load, it has to be one the user has on their computer or it has to be linked in the HTML or loaded from somewhere.~~
 
-+ Use auto margins, flex display, and justify-content to evenly distribute (space-evenly) the pagination buttons at the bottom of the page. You might also style the border of the buttons to be thicker or thinner, or have another appearance as you wish.
+~~+ Use auto margins, flex display, and justify-content to evenly distribute (space-evenly) the pagination buttons at the bottom of the page. You might also style the border of the buttons to be thicker or thinner, or have another appearance as you wish.~~
 
-+ Add your name to the footer copyright.
+~~+ Add your name to the footer copyright.~~
 
-+ Style the page with a suitable color scheme, either light or dark, so it doesn't look so plain. Consider using color for: navigation-bar background and text, footer background and text, page background, header background, body text, and pagination buttons, both normal and on hover.
+~~+ Style the page with a suitable color scheme, either light or dark, so it doesn't look so plain. Consider using color for: navigation-bar background and text, footer background and text, page background, header background, body text, and pagination buttons, both normal and on hover.~~
 
 ## One more thing
-+ I wrapped a span with the .dropcap class around the first letter of the article in /index.html, but never wrote the css for it. If you can, please use it to create a drop-cap effect (A big first letter at the start of the paragraph).
+~~+ I wrapped a span with the .dropcap class around the first letter of the article in /index.html, but never wrote the css for it. If you can, please use it to create a drop-cap effect (A big first letter at the start of the paragraph).~~
